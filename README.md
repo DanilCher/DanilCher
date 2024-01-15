@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://t.me/DanielChoza">
+  <a href="https://t.me/Daniil_Chern">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="mailto:chernevsky.da@gmail.com">
